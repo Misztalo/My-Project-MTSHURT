@@ -1,0 +1,70 @@
+#but4{
+    display: inline-block;
+    padding: 1.375rem 2.125rem 1.375rem 2.125rem;
+    border: 0.125rem solid #EE9944;
+    border-radius: 1.5rem;
+    background-color: rgb(73, 69, 69);
+    color: #fff;
+    font: 700 0.90rem/0 "Montserrat", sans-serif;
+    float: left;
+    margin-left: 600px;
+    margin-top: 31px;
+}
+
+#but5{
+    display: inline-block;
+    padding: 1.375rem 2.125rem 1.375rem 2.125rem;
+    border: 0.125rem solid #EE9944;
+    border-radius: 1.5rem;
+    background-color: rgb(73, 69, 69);
+    color: #fff;
+    font: 700 0.90rem/0 "Montserrat", sans-serif;
+    float: right;
+    margin-right: 650px;
+    margin-top: 50px;
+    
+}
+
+body {
+    background-image: url("unknown.png");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+html{
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+text-shadow: 0px 0px 1px #000000;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 1cm;
+    color: orange;
+}
+
+#button{
+    text-align: center;
+    margin-top: 450px;
+}
+a:hover{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#text{
+    text-align: center;
+    margin-top: 80px;
+}
